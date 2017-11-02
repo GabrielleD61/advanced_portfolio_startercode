@@ -1,5 +1,7 @@
 /* Nav Bar CSS */
-
+h1 {
+    border:solid black;
+}
 
 /* Header CSS */
 
@@ -22,5 +24,6 @@
 
 
 /* Button CSS */
+
 
 
